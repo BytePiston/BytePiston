@@ -1,4 +1,4 @@
-<h2 align="left">👋 Hi there! I'm Neel Priyadarshi a software developer, specialized in building distributed, scalable cloud-native applications.</h2>
+<h2 align="left">👋 Hi there! I'm Neel Priyadarshi, a Software Developer who drinks coffee and turns it into code!</h2>
 
 ###
 
